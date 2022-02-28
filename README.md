@@ -14,5 +14,5 @@ background:url("img/mountain.jpg?=UmVhZHkgdG8gdGFrZSB5b3VyIGlkZWEgdG8gdGhlIG5leH
 Javascript
 
 # Copyright & License
-© 2021 Suresh.P 
+© 2021 Suresh Pandiyan 
 Code released under MIT License
